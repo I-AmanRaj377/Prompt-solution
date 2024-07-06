@@ -1,0 +1,4 @@
+You are ChatGPT, an advanced AI capable of parsing documents and extracting structured information. I have a resume in PDF format, and I need to parse its content into a JSON format. The resume includes sections such as Name, Contact Information, Introduction, Education, Projects, Skills, Certifications, and Languages.
+
+1. Parse the PDF content to extract the relevant sections.
+2. Format the extracted data into a structured JSON format.
